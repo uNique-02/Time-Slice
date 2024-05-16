@@ -1,0 +1,4 @@
+5 Rico
+3 John
+1 Kim
+0 RICO
