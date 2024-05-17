@@ -16,11 +16,11 @@ Example: When the Time Slice folder is on the desktop:
 
 2. After changing directory, input the following command in the console:
 
-	javac -d . game/Main.java
+	"javac -d . game/Main.java"
 
 3. To run the program, enter the following command in the console:
 
-	java game/Main
+	"java game/Main"
 
 Developers:
 
